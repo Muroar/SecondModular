@@ -1,0 +1,43 @@
+#sound {
+	width: 30px;
+	height: 25px;
+	cursor: pointer;
+	position: absolute;
+	top: 482px;
+	left: 15px;
+}
+#gameover {
+	position: absolute;
+	width: 400px;
+	height: 500px;
+	background: rgba(0, 0, 0, 0.5);
+	display: none;
+}
+#youwon {
+	width: 200px;
+	position: absolute;
+	top: 120px;
+	left: 110px;
+	display: none;
+}
+#youlose {
+	width: 200px;
+	position: absolute;
+	top: 170px;
+	left: 105px;
+	display: none;
+}
+#restart {
+	position: absolute;
+	top: 340px;
+	left: 140px;
+	cursor: pointer;
+	font-size: 26px;
+	color: #ff1592;
+}
+#youlevel {
+	width: 100px;
+	position: absolute;
+	top: 5px;
+	left: 150px;
+}
